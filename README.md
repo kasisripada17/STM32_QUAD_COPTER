@@ -37,4 +37,4 @@ MOTOR CONNECTIONS:
 MOTOR LAYOUT:
 -----------------------------------------------
 
-![alt text](https://github.com/kasisripada17/STM32_QUAD_COPTER/blob/25ec00073ce909a125d3cee5a9726c821a49fc45/docs/motor_layout.png)
+![alt text](https://github.com/kasisripada17/STM32_QUAD_COPTER/blob/main/layout.jpeg?raw=true)
