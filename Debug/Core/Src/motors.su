@@ -1,0 +1,2 @@
+motors.c:3:6:DriveMotor	32	static
+motors.c:16:6:DriveMotors	48	static

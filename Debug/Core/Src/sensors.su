@@ -1,0 +1,2 @@
+sensors.c:4:6:ReadAccelerometerData	56	static
+sensors.c:23:6:ReadGyroScopeData	56	static
