@@ -3,7 +3,14 @@ flight controller congifuration!
 MCU:        STM32L476RG.   
 ACC & GYRO: LSM6DS3.   
 Magnetometer: LIS3MDL.   
-  
+
+Video:
+https://www.youtube.com/watch?v=qcsMEuHM4bk
+
+hardware used:
+https://www.sensiedge.com/product-page/simba-dkl
+<img width="1903" height="1070" alt="image" src="https://github.com/user-attachments/assets/83dc882b-cd52-47ff-bd79-b1c350634725" />
+
 PORTS:  
 I2C1  
 SCL: PB8. 
